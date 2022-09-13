@@ -6,6 +6,6 @@ Oracle Apex Pastebin
 - paste can configure with 'delete after click'
 - paste must have a durability date
 
-live version : https://app.011235.dk/011235/pastebin/r/pastebin/home
+https://app.011235.dk/011235/f?p=115
 
 this application file is for oracle apex < 20.2
