@@ -10,6 +10,6 @@ Oracle Apex Pastebin
 2. change the app-url in the admin pannel
 3. enjoy
 
-https://paste.011235.dk
+https://paste.linux-hus.dk
 
-this application file is for oracle apex < 20.2
+this application file is for oracle apex 20.2+
